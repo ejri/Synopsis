@@ -9,7 +9,7 @@ http://www.brianchami.com
 
 Bio:
 
-I am an engineering grad student at SFU (BSc in biophysics). My academic and research work in Canada and the EU encompass interdisciplinary fields and involves integrating aspects of sciences and engineering to develop multidisciplinary solutions, mostly related to sensors (micro)fabrication (in Si) and the integration of sensors in a wide range of applications. 
+I am an engineering grad student at SFU (BSc in biophysics). My academic and research work in Canada and the EU encompasses interdisciplinary fields and involves integrating aspects of sciences and engineering to develop multidisciplinary solutions, mostly related to sensors (micro)fabrication (in Si) and the integration of sensors in a wide range of applications. 
 
 My research and extracurricular projects, as well as my research goals, have always been aimed towards developing solutions that contribute to enhancing longevity and the overall quality of people's lives, regardless of where they are.
 
