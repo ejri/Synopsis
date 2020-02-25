@@ -19,7 +19,7 @@ My research and extracurricular projects, as well as my research goals, have alw
  
  My health-related projects have been aimed towards early (cancer) detection as well as preventative analysis, though they encompass a broader range, including reducing stress levels for medical staff and first responders as well as reducing ER wait-times, where I have built custom wearables as well as designed apps and platforms. 
  
- Some brief description of projects:
+ Brief description of some projects:
  
 - custom-built system to imitate heart beating and breathing patterns for CT scanner calibrations. 
 
