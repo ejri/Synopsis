@@ -1,0 +1,10 @@
+Id,Age,Siblings,Height,Weight,BMI,Vehicle,Travel Distance,Education,Salary
+x1,23,None,5’5,140lbs,23.3,Car,60km,Bachelor’s,"$60,000"
+x2,20,2,6’0,175lbs,23.7,Bicycle,20km,High-School,"$20,000"
+x3,40,1,4’10,100lbs,999,Bus,40km,Master’s,"$75,000"
+x4,21,6,0,130lbs,23.8,Taxi,50km,High-School,"$2,000,000"
+x5,42,0,5’8,180,27.4,Bus,35km,Ph.D.,"$80,000"
+x5,42,0,5’8,180,27.4,Bus,35km,Ph.D.,"$80,000"
+x1,23,None,5’5,140lbs,23.3,Car,60km,Bachelor’s,"$60,000"
+x7,24,1,5’8,155lbs,23.6,Foot,3km,Bachelor’s,"$100,000"
+x8,35,4,5’3,100lbs,17.7,Bus,15km,Master’s,"$50,000"
